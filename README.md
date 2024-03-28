@@ -36,6 +36,8 @@ Visualize our results using Seaborn.
 NB:
 This repo consists of two projects:
 1. Guided project (following the instructions)
+
   a. Codes based on the instructions
   b. Edited code with new versions 
+  
 4. Practiced project (self)
